@@ -4,9 +4,9 @@ from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQuer
 from pymongo import MongoClient
 
 # ==== CONFIG ====
-BOT_TOKEN = "8189711598:AAGgYOksj7cG4ivc5dLwfsfgjkwvI6kz870"
+BOT_TOKEN = "8302954081:AAGNkk35qYHfrACJZwTajaDLKhY5xKnI_IQ"
 MONGO_URI = "mongodb+srv://TRUSTLYTRANSACTIONBOT:TRUSTLYTRANSACTIONBOT@cluster0.t60mxb7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-OWNER_IDS = [8280018677]  
+OWNER_IDS = [8009256753]  
 
 # ==== MongoDB Setup ====
 mongo = MongoClient(MONGO_URI)
@@ -24,13 +24,13 @@ START_MESSAGE = (
     "𝗗#𝘀𝗶 𝗠𝗮𝗮𝗹 𝗞𝗲 𝗗𝗲𝗲𝘄𝗮𝗻𝗼 𝗞𝗲 𝗟𝗶𝘆𝗲 😋\n\n"
     "𝗡𝗼 𝗦𝗻#𝗽𝘀 𝗣𝘂𝗿𝗲 𝗗#𝘀𝗶 𝗠𝗮𝗮𝗹 😙\n\n"
     "𝟱𝟭𝟬𝟬𝟬+ 𝗿𝗮𝗿𝗲 𝗗#𝘀𝗶 𝗹𝗲#𝗸𝘀 𝗲𝘃𝗲𝗿.... 🎀\n\n"
-    "𝗣𝗿𝗶𝗰𝗲 :- ₹99/-"
+    "𝗣𝗿𝗶𝗰𝗲 :- ₹29/-"
 )
 
 PREMIUM_MESSAGE = (
     "💎 Premium Access Details\n\n"
     "Pay just ₹99/- and get lifetime access!\n\n"
-    "Send your payment screenshot to @MMSBHAI069 ✅"
+    "Send your payment screenshot to @viralleakin29 ✅"
 )
 
 # ==== Save Users in Mongo ====
@@ -98,8 +98,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await save_user(update)
     keyboard = [
         [InlineKeyboardButton("💎 Get Premium", callback_data="get_premium")],
-        [InlineKeyboardButton("🎥 Demo Channel", url="https://t.me/mmsbhaidemo1")],
-        [InlineKeyboardButton("✅ Proofs", url="https://t.me/mmsbhaiproof69")]
+        [InlineKeyboardButton("🎥 Demo Channel", url="https://t.me/viralleakwala29")],
+        [InlineKeyboardButton("✅ Proofs", url="https://t.me/desivideoin29")]
     ]
     await update.message.reply_photo(photo=START_IMAGE, caption=START_MESSAGE, reply_markup=InlineKeyboardMarkup(keyboard))
 
@@ -112,8 +112,8 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if query.data == "get_premium":
         keyboard = [
             [InlineKeyboardButton("🔙 Back", callback_data="back")],
-            [InlineKeyboardButton("🎥 Demo Channel", url="https://t.me/mmsbhaidemo1")],
-            [InlineKeyboardButton("✅ Proofs", url="https://t.me/mmsbhaiproof69")]
+            [InlineKeyboardButton("🎥 Demo Channel", url="https://t.me/viralleakwala29")],
+            [InlineKeyboardButton("✅ Proofs", url="https://t.me/desivideoin29")]
         ]
         await query.edit_message_media(
             media=InputMediaPhoto(PREMIUM_IMAGE, caption=PREMIUM_MESSAGE),
@@ -122,8 +122,8 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif query.data == "back":
         keyboard = [
             [InlineKeyboardButton("💎 Get Premium", callback_data="get_premium")],
-            [InlineKeyboardButton("🎥 Demo Channel", url="https://t.me/mmsbhaidemo1")],
-            [InlineKeyboardButton("✅ Proofs", url="https://t.me/mmsbhaiproof69")]
+            [InlineKeyboardButton("🎥 Demo Channel", url="https://t.me/viralleakwala29")],
+            [InlineKeyboardButton("✅ Proofs", url="https://t.me/desivideoin29")]
         ]
         await query.edit_message_media(
             media=InputMediaPhoto(START_IMAGE, caption=START_MESSAGE),
