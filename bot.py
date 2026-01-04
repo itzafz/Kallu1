@@ -20,8 +20,17 @@ PREMIUM_IMAGE = "https://i.ibb.co/hR3VBSf9/x.jpg"
 
 # ==== Messages ====
 START_MESSAGE = (
-    "𝗗𝗶𝗿𝗲𝗰𝘁 𝗣#𝗿𝗻 𝗩𝗶𝗱𝗲𝗼 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🌸\n\n"
-    "𝗗#𝘀𝗶 𝗠𝗮𝗮𝗹 𝗞𝗲 𝗗𝗲𝗲𝘄𝗮𝗻𝗼 𝗞𝗲 𝗟𝗶𝘆𝗲 😋\n\n"
+    "💖Agar Apko Bhi 50,000+ Viral Desi Videos Lena Hai To Sirf ₹29/- Pay krke Aap Hamare Group Mai Join Karskte hai🥵💦
+
+Is Group Mai Ye sare Video Rahenge 👇 👇 \n\n"
+    "Desi Bhabhi
+•Mom-Son
+•Bhai-Behen
+•Jabardasti
+•Instagram Reel wali
+•Spy Cam
+•Dost Ki Biwi
+Aur bohot kuch ⏩⏩\n\n"
     "𝗡𝗼 𝗦𝗻#𝗽𝘀 𝗣𝘂𝗿𝗲 𝗗#𝘀𝗶 𝗠𝗮𝗮𝗹 😙\n\n"
     "𝟱𝟭𝟬𝟬𝟬+ 𝗿𝗮𝗿𝗲 𝗗#𝘀𝗶 𝗹𝗲#𝗸𝘀 𝗲𝘃𝗲𝗿.... 🎀\n\n"
     "𝗣𝗿𝗶𝗰𝗲 :- ₹29/-"
