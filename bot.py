@@ -29,7 +29,7 @@ START_MESSAGE = (
 
 PREMIUM_MESSAGE = (
     "💎 Premium Access Details\n\n"
-    "Pay just ₹99/- and get lifetime access!\n\n"
+    "Pay just ₹29/- and get lifetime access!\n\n"
     "Send your payment screenshot to @viralleakin29 ✅"
 )
 
