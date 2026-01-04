@@ -20,17 +20,19 @@ PREMIUM_IMAGE = "https://i.ibb.co/hR3VBSf9/x.jpg"
 
 # ==== Messages ====
 START_MESSAGE = (
-    "💖 Agar aap bhi 50,000+ Viral Desi Videos lena chahte ho "
-    "to sirf ₹29/- pay karke hamare Private Group me join karo 🔥💦\n\n"
+    "💖Agar Apko Bhi 50,000+ Viral Desi "
+    "Videos Lena Hai To Sirf ₹29/- Pay krke Aap\n\n"
+    "Hamare Group Mai Join Karskte hai🥵💦\n\n"
 
     "Is Group me ye saara exclusive content milega 👇👇\n\n"
 
     "• Desi Bhabhi\n"
+    "• Mom-Son\n"
     "• Couple Videos\n"
     "• Hidden Cam\n"
     "• Instagram Viral Reels\n"
     "• Real Amateur Content\n"
-    "• Dost ki Wife (Roleplay)\n"
+    "• Dost ki Wife \n"
     "• Aur bohot kuch ⏩⏩\n\n"
 
     "𝗡𝗼 𝗦𝗻𝗮𝗽𝘀 – 𝗣𝘂𝗿𝗲 𝗗𝗲𝘀𝗶 𝗩𝗶𝗱𝗲𝗼 😙\n\n"
